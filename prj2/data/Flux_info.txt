@@ -1,0 +1,555 @@
+00031493016
+
+
+1. V band
+
+                Source
+                            Position: RA = 22h 53m 57.75s, Dec = +16d 08m 53.6s (J2000)
+                            Position: RA = 343.49063, Dec = 16.14821 (J2000)
+                            Exposure: 105.08 s (source)
+                            Exposure: 105.08 s (background)
+                            Filter: V
+                        Significance: 26.4 sigma (stat)
+                    Background-limit: 3.0 sigma (stat)
+
+                UVOT v magnitude (Vega system)
+                            Source: 15.55 +/- 0.05 (stat) +/- 0.01 (sys)
+                        Background: 22.17 arcsec^-2
+                    Background-limit: 18.69
+                Coincidence-limit: 11.46
+
+                UVOT v magnitude (AB system)
+                            Source: 15.54 +/- 0.05 (stat) +/- 0.01 (sys)
+                        Background: 22.16 arcsec^-2
+                    Background-limit: 18.68
+                Coincidence-limit: 11.45
+
+                Flux density [erg/s/cm^2/A]
+                            Source: 2.26 +/- 0.10 (stat) +/- 0.01 (sys) x 10^-15
+                        Background: 5.09 +/- 0.02 (stat) +/- 0.02 (sys) x 10^-18 arcsec^-2
+                    Background-limit: 1.25 x 10^-16
+                Coincidence-limit: 9.73 x 10^-14
+
+                Corrected rate [count/s]
+                            Source: 8.649 +/- 0.388 (stat)
+                        Background: 0.019 arcsec^-2
+                    Background-limit: 0.479
+                Coincidence-limit: 372.234
+
+                Raw rate [count/s]
+                            Source: 7.270 +/- 0.275 (stat)
+                        Background: 0.019 arcsec^-2
+                    Background-limit: 0.406
+                Coincidence-limit: 90.644
+
+                Flux density [mJy at 5.550 x 10^14 Hz]
+                            Source: 2.20 +/- 0.10 (stat) +/- 0.01 (sys) x 10^0
+                        Background: 4.95 +/- 0.02 (stat) +/- 0.02 (sys) x 10^-3 arcsec^-2
+                    Background-limit: 1.22 x 10^-1
+                Coincidence-limit: 9.47 x 10^1
+
+                Quality flags (unknown)
+
+                Photometry flags (3 = 0x0003)
+                    NO_EXPOSURE_MAP: 0x0001
+
+2. M2 band
+
+                Source
+                            Position: RA = 22h 53m 57.75s, Dec = +16d 08m 53.6s (J2000)
+                            Position: RA = 343.49063, Dec = 16.14821 (J2000)
+                            Exposure: 284.59 s (source)
+                            Exposure: 284.59 s (background)
+                            Filter: UVM2
+                        Significance: 29.8 sigma (stat)
+                    Background-limit: 3.0 sigma (stat)
+
+                UVOT uvm2 magnitude (Vega system)
+                            Source: 15.50 +/- 0.04 (stat) +/- 0.03 (sys)
+                        Background: 24.99 arcsec^-2
+                    Background-limit: 19.83
+                Coincidence-limit: 10.42
+
+                UVOT uvm2 magnitude (AB system)
+                            Source: 17.19 +/- 0.04 (stat) +/- 0.03 (sys)
+                        Background: 26.68 arcsec^-2
+                    Background-limit: 21.52
+                Coincidence-limit: 12.11
+
+                Flux density [erg/s/cm^2/A]
+                            Source: 2.94 +/- 0.12 (stat) +/- 0.02 (sys) x 10^-15
+                        Background: 4.68 +/- 0.07 (stat) +/- 0.03 (sys) x 10^-19 arcsec^-2
+                    Background-limit: 5.41 x 10^-17
+                Coincidence-limit: 3.14 x 10^-13
+
+                Corrected rate [count/s]
+                            Source: 3.483 +/- 0.140 (stat)
+                        Background: 0.00055 arcsec^-2
+                    Background-limit: 0.064
+                Coincidence-limit: 372.234
+
+                Raw rate [count/s]
+                            Source: 3.053 +/- 0.103 (stat)
+                        Background: 0.00055 arcsec^-2
+                    Background-limit: 0.056
+                Coincidence-limit: 90.644
+
+                Flux density [mJy at 1.345 x 10^15 Hz]
+                            Source: 4.87 +/- 0.20 (stat) +/- 0.03 (sys) x 10^-1
+                        Background: 7.76 +/- 0.12 (stat) +/- 0.05 (sys) x 10^-5 arcsec^-2
+                    Background-limit: 8.97 x 10^-3
+                Coincidence-limit: 5.21 x 10^1
+
+                Quality flags (unknown)
+
+                Photometry flags (3 = 0x0003)
+                    NO_EXPOSURE_MAP: 0x0001
+                    NO_QUALITY_MAP: 0x0002
+
+
+00031493022
+
+
+1. V band
+
+                Source
+                            Position: RA = 22h 53m 57.75s, Dec = +16d 08m 53.6s (J2000)
+                            Position: RA = 343.49063, Dec = 16.14821 (J2000)
+                            Exposure: 132.64 s (source)
+                            Exposure: 132.64 s (background)
+                            Filter: V
+                        Significance: 25.1 sigma (stat)
+                    Background-limit: 3.0 sigma (stat)
+
+                UVOT v magnitude (Vega system)
+                            Source: 15.90 +/- 0.05 (stat) +/- 0.01 (sys)
+                        Background: 22.67 arcsec^-2
+                    Background-limit: 19.05
+                Coincidence-limit: 11.46
+
+                UVOT v magnitude (AB system)
+                            Source: 15.89 +/- 0.05 (stat) +/- 0.01 (sys)
+                        Background: 22.66 arcsec^-2
+                    Background-limit: 19.04
+                Coincidence-limit: 11.45
+
+                Flux density [erg/s/cm^2/A]
+                            Source: 1.64 +/- 0.08 (stat) +/- 0.01 (sys) x 10^-15
+                        Background: 3.19 +/- 0.02 (stat) +/- 0.01 (sys) x 10^-18 arcsec^-2
+                    Background-limit: 9.01 x 10^-17
+                Coincidence-limit: 9.73 x 10^-14
+
+                Corrected rate [count/s]
+                            Source: 6.269 +/- 0.290 (stat)
+                        Background: 0.012 arcsec^-2
+                    Background-limit: 0.345
+                Coincidence-limit: 372.234
+
+                Raw rate [count/s]
+                            Source: 5.254 +/- 0.209 (stat)
+                        Background: 0.012 arcsec^-2
+                    Background-limit: 0.291
+                Coincidence-limit: 90.644
+
+                Flux density [mJy at 5.550 x 10^14 Hz]
+                            Source: 1.59 +/- 0.07 (stat) +/- 0.01 (sys) x 10^0
+                        Background: 3.11 +/- 0.01 (stat) +/- 0.01 (sys) x 10^-3 arcsec^-2
+                    Background-limit: 8.77 x 10^-2
+                Coincidence-limit: 9.47 x 10^1
+
+                Quality flags (unknown)
+
+                Photometry flags (3 = 0x0003)
+                    NO_EXPOSURE_MAP: 0x0001
+                    NO_QUALITY_MAP: 0x0002
+
+2. M2 band
+
+                Source
+                            Position: RA = 22h 53m 57.75s, Dec = +16d 08m 53.6s (J2000)
+                            Position: RA = 343.49063, Dec = 16.14821 (J2000)
+                            Exposure: 370.19 s (source)
+                            Exposure: 370.19 s (background)
+                            Filter: UVM2
+                        Significance: 29.0 sigma (stat)
+                    Background-limit: 3.0 sigma (stat)
+
+                UVOT uvm2 magnitude (Vega system)
+                            Source: 99
+                        Background: 24.71 arcsec^-2
+                    Background-limit: 19.92
+                Coincidence-limit: 10.42
+
+                UVOT uvm2 magnitude (AB system)
+                            Source: 99
+                        Background: 26.40 arcsec^-2
+                    Background-limit: 21.61
+                Coincidence-limit: 12.11
+
+                Flux density [erg/s/cm^2/A]
+                            Source: 2.22 +/- 0.09 (stat) +/- 0.01 (sys) x 10^-15
+                        Background: 6.05 +/- 0.07 (stat) +/- 0.04 (sys) x 10^-19 arcsec^-2
+                    Background-limit: 4.99 x 10^-17
+                Coincidence-limit: 3.14 x 10^-13
+
+                Corrected rate [count/s]
+                            Source: < 0.059
+                        Background: 0.00072 arcsec^-2
+                    Background-limit: 0.059
+                Coincidence-limit: 372.234
+
+                Raw rate [count/s]
+                            Source: 2.267 +/- 0.078 (stat)
+                        Background: 0.00072 arcsec^-2
+                    Background-limit: 0.051
+                Coincidence-limit: 90.644
+
+                Flux density [mJy at 1.345 x 10^15 Hz]
+                            Source: 3.67 +/- 0.15 (stat) +/- 0.02 (sys) x 10^-1
+                        Background: 1.00 +/- 0.01 (stat) +/- 0.01 (sys) x 10^-4 arcsec^-2
+                    Background-limit: 8.28 x 10^-3
+                Coincidence-limit: 5.21 x 10^1
+
+                Quality flags (unknown)
+
+                Photometry flags (515 = 0x0203)
+                    NO_EXPOSURE_MAP: 0x0001
+                    NO_QUALITY_MAP: 0x0002
+                            BAD_SSS: 0x0200
+
+
+00031493025
+
+
+1. V band
+
+                Source
+                            Position: RA = 22h 53m 57.75s, Dec = +16d 08m 53.6s (J2000)
+                            Position: RA = 343.49063, Dec = 16.14821 (J2000)
+                            Exposure: 107.05 s (source)
+                            Exposure: 107.05 s (background)
+                            Filter: V
+                        Significance: 57.4 sigma (stat)
+                    Background-limit: 3.0 sigma (stat)
+
+                UVOT v magnitude (Vega system)
+                            Source: 14.15 +/- 0.03 (stat) +/- 0.01 (sys)
+                        Background: 22.59 arcsec^-2
+                    Background-limit: 18.76
+                Coincidence-limit: 11.46
+
+                UVOT v magnitude (AB system)
+                            Source: 14.14 +/- 0.03 (stat) +/- 0.01 (sys)
+                        Background: 22.58 arcsec^-2
+                    Background-limit: 18.75
+                Coincidence-limit: 11.45
+
+                Flux density [erg/s/cm^2/A]
+                            Source: 8.20 +/- 0.24 (stat) +/- 0.03 (sys) x 10^-15
+                        Background: 3.45 +/- 0.02 (stat) +/- 0.01 (sys) x 10^-18 arcsec^-2
+                    Background-limit: 1.18 x 10^-16
+                Coincidence-limit: 9.73 x 10^-14
+
+                Corrected rate [count/s]
+                            Source: 31.378 +/- 0.925 (stat)
+                        Background: 0.013 arcsec^-2
+                    Background-limit: 0.450
+                Coincidence-limit: 372.234
+
+                Raw rate [count/s]
+                            Source: 23.549 +/- 0.410 (stat)
+                        Background: 0.013 arcsec^-2
+                    Background-limit: 0.340
+                Coincidence-limit: 90.644
+
+                Flux density [mJy at 5.550 x 10^14 Hz]
+                            Source: 7.98 +/- 0.24 (stat) +/- 0.03 (sys) x 10^0
+                        Background: 3.36 +/- 0.02 (stat) +/- 0.01 (sys) x 10^-3 arcsec^-2
+                    Background-limit: 1.14 x 10^-1
+                Coincidence-limit: 9.47 x 10^1
+
+                Quality flags (unknown)
+
+                Photometry flags (3 = 0x0003)
+                    NO_EXPOSURE_MAP: 0x0001
+                    NO_QUALITY_MAP: 0x0002
+
+2. M2 band
+
+                Source
+                            Position: RA = 22h 53m 57.75s, Dec = +16d 08m 53.6s (J2000)
+                            Position: RA = 343.49063, Dec = 16.14821 (J2000)
+                            Exposure: 302.23 s (source)
+                            Exposure: 302.23 s (background)
+                            Filter: UVM2
+                        Significance: 48.5 sigma (stat)
+                    Background-limit: 3.0 sigma (stat)
+
+                UVOT uvm2 magnitude (Vega system)
+                            Source: 14.51 +/- 0.03 (stat) +/- 0.03 (sys)
+                        Background: 25.12 arcsec^-2
+                    Background-limit: 19.87
+                Coincidence-limit: 10.42
+
+                UVOT uvm2 magnitude (AB system)
+                            Source: 16.20 +/- 0.03 (stat) +/- 0.03 (sys)
+                        Background: 26.81 arcsec^-2
+                    Background-limit: 21.56
+                Coincidence-limit: 12.11
+
+                Flux density [erg/s/cm^2/A]
+                            Source: 7.27 +/- 0.22 (stat) +/- 0.05 (sys) x 10^-15
+                        Background: 4.16 +/- 0.06 (stat) +/- 0.03 (sys) x 10^-19 arcsec^-2
+                    Background-limit: 5.23 x 10^-17
+                Coincidence-limit: 3.14 x 10^-13
+
+                Corrected rate [count/s]
+                            Source: 8.602 +/- 0.258 (stat)
+                        Background: 0.00049 arcsec^-2
+                    Background-limit: 0.062
+                Coincidence-limit: 372.234
+
+                Raw rate [count/s]
+                            Source: 7.215 +/- 0.149 (stat)
+                        Background: 0.00049 arcsec^-2
+                    Background-limit: 0.052
+                Coincidence-limit: 90.644
+
+                Flux density [mJy at 1.345 x 10^15 Hz]
+                            Source: 1.20 +/- 0.04 (stat) +/- 0.01 (sys) x 10^0
+                        Background: 6.89 +/- 0.11 (stat) +/- 0.04 (sys) x 10^-5 arcsec^-2
+                    Background-limit: 8.67 x 10^-3
+                Coincidence-limit: 5.21 x 10^1
+
+                Quality flags (unknown)
+
+                Photometry flags (3 = 0x0003)
+                    NO_EXPOSURE_MAP: 0x0001
+                    NO_QUALITY_MAP: 0x0002
+
+
+00031493028
+
+
+1. V band
+
+                Source
+                            Position: RA = 22h 53m 57.75s, Dec = +16d 08m 53.6s (J2000)
+                            Position: RA = 343.49063, Dec = 16.14821 (J2000)
+                            Exposure: 134.62 s (source)
+                            Exposure: 134.62 s (background)
+                            Filter: V
+                        Significance: 31.4 sigma (stat)
+                    Background-limit: 3.0 sigma (stat)
+
+                UVOT v magnitude (Vega system)
+                            Source: 15.48 +/- 0.04 (stat) +/- 0.01 (sys)
+                        Background: 22.59 arcsec^-2
+                    Background-limit: 19.00
+                Coincidence-limit: 11.46
+
+                UVOT v magnitude (AB system)
+                            Source: 15.47 +/- 0.04 (stat) +/- 0.01 (sys)
+                        Background: 22.58 arcsec^-2
+                    Background-limit: 18.99
+                Coincidence-limit: 11.45
+
+                Flux density [erg/s/cm^2/A]
+                            Source: 2.39 +/- 0.09 (stat) +/- 0.01 (sys) x 10^-15
+                        Background: 3.45 +/- 0.02 (stat) +/- 0.01 (sys) x 10^-18 arcsec^-2
+                    Background-limit: 9.38 x 10^-17
+                Coincidence-limit: 9.73 x 10^-14
+
+                Corrected rate [count/s]
+                            Source: 9.164 +/- 0.362 (stat)
+                        Background: 0.013 arcsec^-2
+                    Background-limit: 0.359
+                Coincidence-limit: 372.234
+
+                Raw rate [count/s]
+                            Source: 7.570 +/- 0.241 (stat)
+                        Background: 0.013 arcsec^-2
+                    Background-limit: 0.298
+                Coincidence-limit: 90.644
+
+                Flux density [mJy at 5.550 x 10^14 Hz]
+                            Source: 2.33 +/- 0.09 (stat) +/- 0.01 (sys) x 10^0
+                        Background: 3.36 +/- 0.02 (stat) +/- 0.01 (sys) x 10^-3 arcsec^-2
+                    Background-limit: 9.13 x 10^-2
+                Coincidence-limit: 9.47 x 10^1
+
+                Quality flags (unknown)
+
+                Photometry flags (3 = 0x0003)
+                    NO_EXPOSURE_MAP: 0x0001
+                    NO_QUALITY_MAP: 0x0002
+
+2. M2 band
+
+                Source
+                            Position: RA = 22h 53m 57.75s, Dec = +16d 08m 53.6s (J2000)
+                            Position: RA = 343.49063, Dec = 16.14821 (J2000)
+                            Exposure: 409.44 s (source)
+                            Exposure: 409.44 s (background)
+                            Filter: UVM2
+                        Significance: 33.6 sigma (stat)
+                    Background-limit: 3.0 sigma (stat)
+
+                UVOT uvm2 magnitude (Vega system)
+                            Source: 15.60 +/- 0.04 (stat) +/- 0.03 (sys)
+                        Background: 25.23 arcsec^-2
+                    Background-limit: 20.15
+                Coincidence-limit: 10.42
+
+                UVOT uvm2 magnitude (AB system)
+                            Source: 17.29 +/- 0.04 (stat) +/- 0.03 (sys)
+                        Background: 26.92 arcsec^-2
+                    Background-limit: 21.84
+                Coincidence-limit: 12.11
+
+                Flux density [erg/s/cm^2/A]
+                            Source: 2.68 +/- 0.10 (stat) +/- 0.02 (sys) x 10^-15
+                        Background: 3.77 +/- 0.05 (stat) +/- 0.02 (sys) x 10^-19 arcsec^-2
+                    Background-limit: 4.04 x 10^-17
+                Coincidence-limit: 3.14 x 10^-13
+
+                Corrected rate [count/s]
+                            Source: 3.172 +/- 0.117 (stat)
+                        Background: 0.00045 arcsec^-2
+                    Background-limit: 0.048
+                Coincidence-limit: 372.234
+
+                Raw rate [count/s]
+                            Source: 2.709 +/- 0.081 (stat)
+                        Background: 0.00045 arcsec^-2
+                    Background-limit: 0.041
+                Coincidence-limit: 90.644
+
+                Flux density [mJy at 1.345 x 10^15 Hz]
+                            Source: 4.44 +/- 0.16 (stat) +/- 0.03 (sys) x 10^-1
+                        Background: 6.24 +/- 0.09 (stat) +/- 0.04 (sys) x 10^-5 arcsec^-2
+                    Background-limit: 6.69 x 10^-3
+                Coincidence-limit: 5.21 x 10^1
+
+                Quality flags (unknown)
+
+                Photometry flags (3 = 0x0003)
+                    NO_EXPOSURE_MAP: 0x0001
+                    NO_QUALITY_MAP: 0x0002
+
+
+00035030001
+
+
+1. V_band
+
+                Source
+                            Position: RA = 22h 53m 57.75s, Dec = +16d 08m 53.6s (J2000)
+                            Position: RA = 343.49063, Dec = 16.14821 (J2000)
+                            Exposure: 86.38 s (source)
+                            Exposure: 86.38 s (background)
+                            Filter: V
+                        Significance: 68.0 sigma (stat)
+                    Background-limit: 3.0 sigma (stat)
+
+                UVOT v magnitude (Vega system)
+                            Source: 13.72 +/- 0.03 (stat) +/- 0.01 (sys)
+                        Background: 21.26 arcsec^-2
+                    Background-limit: 18.05
+                Coincidence-limit: 11.46
+
+                UVOT v magnitude (AB system)
+                            Source: 13.71 +/- 0.03 (stat) +/- 0.01 (sys)
+                        Background: 21.25 arcsec^-2
+                    Background-limit: 18.04
+                Coincidence-limit: 11.45
+
+                Flux density [erg/s/cm^2/A]
+                            Source: 1.22 +/- 0.03 (stat) +/- 0.00 (sys) x 10^-14
+                        Background: 1.17 +/- 0.00 (stat) +/- 0.00 (sys) x 10^-17 arcsec^-2
+                    Background-limit: 2.25 x 10^-16
+                Coincidence-limit: 9.73 x 10^-14
+
+                Corrected rate [count/s]
+                            Source: 46.508 +/- 1.330 (stat)
+                        Background: 0.045 arcsec^-2
+                    Background-limit: 0.861
+                Coincidence-limit: 372.234
+
+                Raw rate [count/s]
+                            Source: 34.595 +/- 0.509 (stat)
+                        Background: 0.044 arcsec^-2
+                    Background-limit: 0.655
+                Coincidence-limit: 90.644
+
+                Flux density [mJy at 5.550 x 10^14 Hz]
+                            Source: 1.18 +/- 0.03 (stat) +/- 0.00 (sys) x 10^1
+                        Background: 1.14 +/- 0.00 (stat) +/- 0.00 (sys) x 10^-2 arcsec^-2
+                    Background-limit: 2.19 x 10^-1
+                Coincidence-limit: 9.47 x 10^1
+
+                Quality flags (unknown)
+
+                Photometry flags (3 = 0x0003)
+                    NO_EXPOSURE_MAP: 0x0001
+                    NO_QUALITY_MAP: 0x0002
+
+2. M band
+
+                Source
+                            Position: RA = 22h 53m 57.75s, Dec = +16d 08m 53.6s (J2000)
+                            Position: RA = 343.49063, Dec = 16.14821 (J2000)
+                            Exposure: 258.63 s (source)
+                            Exposure: 258.63 s (background)
+                            Filter: UVM2
+                        Significance: 55.5 sigma (stat)
+                    Background-limit: 3.0 sigma (stat)
+
+                UVOT uvm2 magnitude (Vega system)
+                            Source: 14.21 +/- 0.03 (stat) +/- 0.03 (sys)
+                        Background: 24.56 arcsec^-2
+                    Background-limit: 19.69
+                Coincidence-limit: 10.42
+
+                UVOT uvm2 magnitude (AB system)
+                            Source: 15.90 +/- 0.03 (stat) +/- 0.03 (sys)
+                        Background: 26.25 arcsec^-2
+                    Background-limit: 21.38
+                Coincidence-limit: 12.11
+
+                Flux density [erg/s/cm^2/A]
+                            Source: 9.60 +/- 0.27 (stat) +/- 0.06 (sys) x 10^-15
+                        Background: 6.99 +/- 0.09 (stat) +/- 0.04 (sys) x 10^-19 arcsec^-2
+                    Background-limit: 6.17 x 10^-17
+                Coincidence-limit: 3.14 x 10^-13
+
+                Corrected rate [count/s]
+                            Source: 11.365 +/- 0.323 (stat)
+                        Background: 0.00083 arcsec^-2
+                    Background-limit: 0.073
+                Coincidence-limit: 372.234
+
+                Raw rate [count/s]
+                            Source: 10.581 +/- 0.191 (stat)
+                        Background: 0.00083 arcsec^-2
+                    Background-limit: 0.068
+                Coincidence-limit: 90.644
+
+                Flux density [mJy at 1.345 x 10^15 Hz]
+                            Source: 1.59 +/- 0.05 (stat) +/- 0.01 (sys) x 10^0
+                        Background: 1.16 +/- 0.02 (stat) +/- 0.01 (sys) x 10^-4 arcsec^-2
+                    Background-limit: 1.02 x 10^-2
+                Coincidence-limit: 5.21 x 10^1
+
+                Quality flags (unknown)
+
+                Photometry flags (3 = 0x0003)
+                    NO_EXPOSURE_MAP: 0x0001
+                    NO_QUALITY_MAP: 0x0002
+
+
+
+
+
+
+
